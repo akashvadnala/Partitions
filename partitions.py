@@ -21,10 +21,3 @@ num = int(input('enter the number..'))
 
 print(partition(num))
 
-# 100 : 190569292
-
-'''
-for num in range(1,31):
-    print('{}\t: {}'.format(num,partition(num)))'''
-
-input()
